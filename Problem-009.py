@@ -6,3 +6,5 @@ def triplet():
                 return a*b*c
 
 print(triplet())
+
+# Output: 31875000
